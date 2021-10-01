@@ -2,3 +2,4 @@
 package-lock.json
 # Project exclude paths
 /node_modules/
+/.idea
