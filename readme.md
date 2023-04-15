@@ -1,9 +1,11 @@
+<sup>*i was high when i wrote this*</sup>
+
 # OmegleGroup
 ### its like a group chat but on omegle haha
 
-i fucked around on this with some random omegle people and they got so confused but there was this one girl i met who was really nice and i liek her
+i fucked around on this with some random omegle people and they got so confused but there was this one girl i met who was really nice
 
-ummmm to run just like `git clone https://github.com/RoseChilds/omegleGroup` and then `cd omegleGroup`
+ummmm to run just like `git clone https://github.com/solithcy/omegleGroup` and then `cd omegleGroup`
 
 then like `npm i`
 
